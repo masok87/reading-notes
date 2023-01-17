@@ -1,6 +1,6 @@
 # reading-notes
 ## Table of content:
-[Class02](https://masok87.github.io/raeding-notes/class02/)
+[Class02](https://masok87.github.io/reading-notes/class02/)
 
 ### Who is Marius?
 Hi my name is Marius. I`m running my own business as a self-employed.
