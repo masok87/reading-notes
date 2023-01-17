@@ -18,5 +18,5 @@ This is my change
 
 
 
-This site was built by Marius  using [GitHub Pages](https://masok87.github.io/raeding-notes).
+This site was built by Marius  using [GitHub Pages](https://masok87.github.io/reading-notes).
 
